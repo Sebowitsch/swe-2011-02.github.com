@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #413235;
+	font-family: 'Linden Hill', serif;
+	font-size: 20px;
+}
+
+#header h1 {
+	color: #FDFCBB;
+	text-align: center;
+}
+
+#container {
+	width: 980px;
+	margin: 20px auto;
+}
+
+#main {
+	margin-top: 20px;
+	background-color: #7F9FB6;
+	color: #fff;
+	padding: 5px 25px 25px 25px;
+	border: 5px solid #627a8c;
+}
+
+#main h2 {
+	margin-top: 10px;
+}
+
+#main ul {
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+#main a {
+	color: #333;
+}
